@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Circe";
+  src: url("./fonts/circe.woff2");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Plumb";
+  src: url("./fonts/plumbMedium.woff2");
+  font-style: normal;
+  font-weight: 500;
+}
